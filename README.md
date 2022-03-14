@@ -1,16 +1,20 @@
-### Hi there 👋
+# Lucas-Alves
 
-<!--
-**lucas2alves/lucas2alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Engenheiro FRONT-END (cursando - 2022)
 
-Here are some ideas to get you started:
+#### EBAC - Escola Britânica deArtes Criativas e Tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### conhecimento:
+
+##### CSS, HTML, java script, Vue js
+
+#### Biblioteca Javascript
+
+##### JQUERY, SASS, React.js
+
+#### Contato:
+
+##### lucasalvesnascimento2010@hotmail.com
+
+##### www.linkedin.com/in/lucas-alves-engenheiro-front-end
