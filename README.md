@@ -4,7 +4,7 @@
 
 ### Engenheiro FRONT-END
 
-#### ALUNO da EBAC - Escola Britânica deArtes Criativas e Tecnologia
+#### ALUNO da EBAC - Escola Britânica de Artes Criativas e Tecnologia
 
 ##### - 🔭 Atualmente trabalho como autônomo.
 ##### - 👯 Estou procurando colaborar com empresas e pessoas que dependem de um bom profissional!
