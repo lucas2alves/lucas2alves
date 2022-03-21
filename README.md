@@ -1,10 +1,10 @@
-# Lucas Alves
-#### Idade: 25 anos
+### Olá pessoal 👋
+#### Tenho 25 anos
 #### Nacionalidade Brasileira — Português (Brasil)
 
 ### Engenheiro FRONT-END
 
-#### EBAC - Escola Britânica deArtes Criativas e Tecnologia
+#### ALUNO da EBAC - Escola Britânica deArtes Criativas e Tecnologia
 
 ##### - 🔭 Atualmente trabalho como autônomo.
 ##### - 👯 Estou procurando colaborar com empresas e pessoas que dependem de um bom profissional!
@@ -15,7 +15,7 @@
 
 ##### www.linkedin.com/in/lucas-alves-engenheiro-front-end
 
-#### conhecimento:
+#### conhecimentos:
 
 ##### CSS, HTML, java script, Vue js
 
